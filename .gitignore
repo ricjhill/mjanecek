@@ -6,6 +6,5 @@ dist
 .cache
 
 # From  the Hugo CMS tranqil theme
-themes/
 .idea
 
