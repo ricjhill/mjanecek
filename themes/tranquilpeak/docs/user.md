@@ -212,7 +212,7 @@ cp config.{toml,yml,json} config.{toml,yml,json}.backup
 Copy example configuration
 
 ```bash
-cp themes/tranquilpeak/exampleSite/config.toml .
+cp themes/tranquilpeak/exampleSite/config.yml .
 ```
 
 Complete `config.toml` with your information. Read above sections to have more information.
